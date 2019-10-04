@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Plugins/ExternalService.WeatherUnderground/bin
+/Plugins/ExternalService.WeatherUnderground/obj
+/Solutions/.vs/ExternalService.WeatherUnderground/v15
+/.vs
+/Solutions/.vs/ExternalService.Weather.Gov/v16
+/Solutions/.vs/ExternalService.Weather.Gov/v15
