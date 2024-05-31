@@ -1,4 +1,4 @@
-# WeatherWallpaper.WeatherUnderground
+# DEPRECATED  WeatherWallpaper.WeatherUnderground
 Weather Underground Plugin for Weather Wallpaper
 
 Calls Yahoo Weather Underground API in order to get Weather, SunRise, and Lat Long info
